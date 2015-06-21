@@ -42,4 +42,4 @@ The script will:
   - add descriptive names for the activities
   - create a tidy data set with the average of the mean and standard deviation observations for each subject and activity
   
-The script will produce a csv called CourseProject.csv containing the final tidy data set and will save it in the working directory.
+The script will produce a txt called CourseProject.txt containing the final tidy data set and will save it in the working directory.
