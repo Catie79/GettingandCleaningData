@@ -96,6 +96,6 @@ t <- t+1
 
 colnames(tidy) <- billybob
 
-#Export to csv
+#Export to txt file
 
 write.table(tidy, file = "CourseProject.txt",row.names=FALSE)
