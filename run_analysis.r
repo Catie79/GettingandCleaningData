@@ -98,4 +98,4 @@ colnames(tidy) <- billybob
 
 #Export to csv
 
-write.table(tidy, file = "CourseProject.csv",row.names=FALSE)
+write.table(tidy, file = "CourseProject.txt",row.names=FALSE)
